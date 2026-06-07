@@ -71,7 +71,7 @@ POST /job
 
 ### Worker Processing
 
-![Worker Processing](screenshots/worker-output.png)
+![Worker Processing](screenshots/worker-ouput.png)
 
 ### Job Status Table
 
